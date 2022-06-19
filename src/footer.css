@@ -1,0 +1,19 @@
+.col1{
+    width: 33%;
+     float:left;
+     background-color: #DBDFFD;
+}
+.col2{
+    width: 34%;
+     float:right;
+     background-color: #DBDFFD;
+}
+.col3{
+    width: 33%;
+     float:right;
+     background-color: #DBDFFD;
+}
+/* .footer{
+  /* display: flex;
+  width: 100%;
+} */ 
